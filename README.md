@@ -1,4 +1,4 @@
-# 微软面试高频题详解
+# FLAG大厂面试高频题详解
 在阅读之前，我建议先安装chrome extension [Github markdown mathjax](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima/related)，因为页面中会有一些Latex写的数学公式。
 # 1. 题目列表
 - [24点游戏](24点/24点游戏.md)
