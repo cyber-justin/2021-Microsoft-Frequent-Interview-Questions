@@ -1,4 +1,4 @@
-# 关注微信公众号：大牛门徒，解锁更多面经真题
+# 关注微信公众号：大牛门徒，解锁更多面经真题，QQ群：794869961
 
 # FLAG大厂面试高频题详解
 在阅读之前，我建议先安装chrome extension [Github markdown mathjax](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima/related)，因为页面中会有一些Latex写的数学公式。
